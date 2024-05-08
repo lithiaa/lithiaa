@@ -10,6 +10,10 @@ You can call me Indra
 
 📫 How to reach me: My social media only active on Facebook and Tiktok
 
+<p align="center">
+    <img src = "https://discord.c99.nl/widget/theme-1/354944887885660161.png">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/lithiaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="lithiaa" height="30" width="40" /></a>
