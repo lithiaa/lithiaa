@@ -14,12 +14,12 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and d
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
 ### Live Discord Activities
-<p align="left">
+<p align="center">
     <img src = "https://discord.c99.nl/widget/theme-1/354944887885660161.png">
 </p>
 
 ### Connect with me
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/mbagusi"><img src="https://img.shields.io/badge/-Muhammad%20Bagus%20Indrawan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/indralth"><img src="https://img.shields.io/badge/-@indralth-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/indradeonaru"><img src="https://img.shields.io/badge/-Indra%20Deonaru-2659B6?style=flat&logo=Facebook&logoColor=white"/></a>
