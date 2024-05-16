@@ -24,6 +24,7 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and d
 <a href="https://www.instagram.com/indralth"><img src="https://img.shields.io/badge/-@indralth-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/indradeonaru"><img src="https://img.shields.io/badge/-Indra%20Deonaru-2659B6?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.discord.com/lithiaa"><img src="https://img.shields.io/badge/-lithiaa-523EAE?style=flat&logo=Discord&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/radeonaru"><img src="https://img.shields.io/badge/-Lithia-08037E?style=flat&logo=Steam&logoColor=white"/></a>
 </p>
 <!--
 **radeonaru/radeonaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
