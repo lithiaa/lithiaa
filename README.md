@@ -14,7 +14,7 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and d
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 
 ### Live Discord Activities
-<p align="center">
+<p align="left">
     <img src = "https://discord.c99.nl/widget/theme-1/354944887885660161.png">
 </p>
 
