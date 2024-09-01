@@ -1,4 +1,4 @@
-## Welcome to my profile 🤘🏻
+## Welcome to my profile, king👑
 
 ### About Me
 My name is Indra, also known as Lithia. I'm focusing on back-end developer and database engineer. I like playing games and watching anime. 
@@ -17,7 +17,8 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and d
 
 
 ### Live Discord Activities
-<p align="center">
+<p align
+="center">
     <img src = "https://discord.c99.nl/widget/theme-1/354944887885660161.png">
 </p>
 
