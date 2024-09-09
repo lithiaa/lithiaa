@@ -6,6 +6,7 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and d
 ### Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
@@ -13,6 +14,7 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and d
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
+
 
 
 ### Live Discord Activities
