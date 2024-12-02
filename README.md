@@ -9,6 +9,7 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and d
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
