@@ -13,6 +13,8 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and d
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+
+### Tools
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![Cpanel](https://img.shields.io/badge/-Cpanel-05122A?style=flat&logo=cpanel)
