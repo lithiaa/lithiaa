@@ -11,6 +11,7 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and d
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
@@ -18,6 +19,7 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and d
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![Cpanel](https://img.shields.io/badge/-Cpanel-05122A?style=flat&logo=cpanel)
+![Laragon](https://img.shields.io/badge/-Laragon-05122A?style=flat&logo=laragon)
 
 
 
