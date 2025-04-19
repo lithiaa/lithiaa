@@ -21,6 +21,7 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and d
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![Cpanel](https://img.shields.io/badge/-Cpanel-05122A?style=flat&logo=cpanel)
 ![Laragon](https://img.shields.io/badge/-Laragon-05122A?style=flat&logo=laragon)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
 
 
@@ -32,7 +33,7 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and d
 
 ### Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/mbagusi"><img src="https://img.shields.io/badge/-Muhammad%20Bagus%20Indrawan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mbagusi"><img src="https://img.shields.io/badge/-Muhammad%20Bagus%20Indrawan-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://www.instagram.com/indralth"><img src="https://img.shields.io/badge/-@indralth-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/indradeonaru"><img src="https://img.shields.io/badge/-Indra%20Deonaru-2659B6?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.discord.com/lithiaa"><img src="https://img.shields.io/badge/-lithiaa-523EAE?style=flat&logo=Discord&logoColor=white"/></a>
