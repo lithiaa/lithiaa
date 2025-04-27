@@ -15,6 +15,7 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and d
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 
 ### Tools
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
