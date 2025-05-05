@@ -1,7 +1,7 @@
 ## Welcome to my profile, king👑
 
 ### About Me
-My name is Indra, also known as Lithia. I'm focusing on back-end developer and database engineer. I like playing games and watching anime. 
+My name is Indra, also known as Lithia. I'm focusing on back-end developer and quality assurance. I like playing games and watching anime. 
 
 ### Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
