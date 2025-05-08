@@ -6,7 +6,6 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and q
 ### Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
@@ -20,10 +19,9 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and q
 ### Tools
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-![Cpanel](https://img.shields.io/badge/-Cpanel-05122A?style=flat&logo=cpanel)
-![Laragon](https://img.shields.io/badge/-Laragon-05122A?style=flat&logo=laragon)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
 
 
 ### Live Discord Activities
