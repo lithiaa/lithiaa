@@ -27,7 +27,10 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and q
 ![DBeaver](https://img.shields.io/badge/-DBeaver-05122A?style=flat&logo=dbeaver)
 
 ### Github Statistics
-[![Lithiaa GitHub stats](https://github-readme-stats.vercel.app/api?username=lithiaa&show_icons=true&theme=radical)](https://github.com/lithiaa) [![GitHub Streak](https://streak-stats.demolab.com?user=lithiaa&border_radius=6&theme=radical)](https://github.com/lithiaa)
+<div align="center">
+    <img src="https://streak-stats.demolab.com/?user=lithiaa&background=18181b&ring=ea580c&fire=ea580c&border=18181b&stroke=18181b&currStreakNum=fafafa&sideNums=fafafa&currStreakLabel=fafafa&sideLabels=fafafa&dates=fafafa" alt="GitHub Streak" height="150"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lithiaa&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=18181b&hide_border=true&title_color=ea580c&text_color=fafafa&icon_color=ea580c" alt="Github Stats" height="150"/> 
+</div>
 
 ### Live Discord Activities
 <p align
