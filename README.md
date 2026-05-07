@@ -1,4 +1,4 @@
-## Welcome to my profile, king👑
+## Welcome to my profile👑
 
 ### About Me
 My name is Indra, also known as Lithia. I'm focusing on back-end developer and quality assurance. I like playing games and watching anime. 
