@@ -7,15 +7,14 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and q
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
+![Mocha](https://img.shields.io/badge/-Mocha-05122A?style=flat&logo=mocha)
 
 ### Tools
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
