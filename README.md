@@ -21,7 +21,6 @@ My name is Indra, also known as Lithia. I'm focusing on back-end developer and q
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
-![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
 ![Termius](https://img.shields.io/badge/-Termius-05122A?style=flat&logo=termius)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-05122A?style=flat&logo=dbeaver)
 
